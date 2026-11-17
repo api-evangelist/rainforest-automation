@@ -64,13 +64,17 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Rainforest Automation (Eagle) provides intelligent energy management solutions, including demand response, grid analytics, and EV managed charging. Their platform enables utilities and businesses to monitor and control energy usage, offering products like LiveDR and Eagle devices. The company focuses on AI-driven electrification, delivering tools for both commercial and residential customers to optimize energy consumption and integrate renewable resources.
+Rainforest Automation (Eagle) provides intelligent energy management solutions, including AI‑driven demand response, grid analytics, and EV managed charging. Their platform helps utilities, commercial customers, and homeowners optimize electricity use, integrate renewable resources, and reduce costs. The company emphasizes data‑driven insights, real‑time monitoring, and scalable hardware and software products for modern electrification.
 
-**Areas:** Grid Analytics · Demand Response · EV Managed Charging · Energy Management · Utilities
+**Areas:** Energy · IoT · Smart-Meter · Automation · Utilities
 
 ## Rainforest Automation (Eagle) on APIs.io
 
 Everything profiled for Rainforest Automation (Eagle) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/rainforest-automation/](https://apis.io/providers/rainforest-automation/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Rainforest Automation Developer Resources](https://apis.io/apis/rainforest-automation/rainforest-automation-developer-resources/) — Provides information for software and hardware developers to connect to Smart Meters via XML and JSON interfaces.
 
 ### Published properties
 
@@ -86,28 +90,25 @@ Authentication, trust centre, and vulnerability disclosure.
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://rainforestautomation.com/)
+- [Website](https://www.rainforestautomation.com/)
 - [Documentation](https://www.rainforestautomation.com/support/developer/)
-- [Getting started](https://www.rainforestautomation.com/about-us/)
-- [API reference](https://www.rainforestautomation.com/support/developer/)
 - [Support](https://support.rainforestautomation.com/)
-- [Blog](https://www.rainforestautomation.com/category/resources/)
 - [Terms of service](https://www.rainforestautomation.com/terms-use/)
 - [Privacy policy](https://www.rainforestautomation.com/privacy/)
 - [GitHub](https://github.com/rainforestautomation)
 
 ## API Evangelist rating
 
-**Kin Score 18.0** — emerging · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 14.3** — emerging · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
-| Discoverability | 44.6 |
+| Discoverability | 53.6 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 4.8 |
-| Developer ergonomics | 52.4 |
-| Access clarity | 17.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 21.4 |
+| Access clarity | 21.1 |
 
 **Agent readiness 3.1** — human-only
 
@@ -136,7 +137,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 6.6** — Energy & Utilities
+**Regulatory alignment 11.5** — Energy & Utilities
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/rainforest-automation/](https://apis.io/providers/rainforest-automation/).
 
